@@ -1,7 +1,0 @@
-streamlit>=1.33
-pandas>=2.2
-numpy>=1.26
-pydeck>=0.8
-requests>=2.32
-duckdb>=1.0.0
-geopy>=2.4
